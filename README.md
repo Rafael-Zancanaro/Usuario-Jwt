@@ -1,2 +1,2 @@
 # Usuario-Jwt
-Api simples para autenticação de usuários com Pólices de entrada
+Api exemplo para cadastro e login de usuários usando jwt com Pólices de entrada.
