@@ -28,6 +28,6 @@ jobs:
       uses: nwtgck/actions-netlify@v2.1.0
       with:
         # Publish directory
-        publish-dir: https://github.com/Rafael-Zancanaro/Usuario-Jwt
+        publish-dir: https://github.com/Rafael-Zancanaro/Usuario-Jwt/blob/main/Usuario.Api/Usuarios.Api.csproj
         enable-github-deployment: true
         github-deployment-environment: main
