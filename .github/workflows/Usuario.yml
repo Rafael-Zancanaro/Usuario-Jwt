@@ -24,3 +24,5 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --no-restore
+    - name: Netlify Deploy
+      uses: jsmrcaga/action-netlify-deploy@10294b8b3b9ad4f326eb45d2e5a904f4016c8f63
